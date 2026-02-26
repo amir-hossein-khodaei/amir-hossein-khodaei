@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hi, I'm Amirhossein Khodaei 👋</h1>
+<h1 align="center">Hi, I'm Amir Hossein Khodaei 👋</h1>
 
 <div align="center">
   <p><b>AI-Augmented Software Engineer | Algorithmic Design | Web3D & Full-Stack</b></p>
