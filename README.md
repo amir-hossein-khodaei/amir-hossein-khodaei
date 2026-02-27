@@ -54,7 +54,7 @@ My long-term academic goal is to pursue a **fully funded Master's degree in AI**
   <br><br>
   <b>Tech Stack:</b><i> Modern Documentation Architecture, AI Prompt Engineering.</i>
   <br>
-  <a href="https://github.com/Amkhodaei83/AI-Student-Handbook">🔗 View Repository</a>
+  <a href="https://github.com/amir-hossein-khodaei/AI-Student-Handbook">🔗 View Repository</a>
 </details>
 
 <details>
@@ -64,7 +64,7 @@ My long-term academic goal is to pursue a **fully funded Master's degree in AI**
   <br><br>
   <b>Tech Stack:</b><i> React Three Fiber, Web Workers, Socket.io, Minimax AI, WebXR.</i>
   <br>
-  <a href="https://github.com/Amkhodaei83/quantum-breach">🔗 View Repository</a>
+  <a href="https://github.com/amir-hossein-khodaei/quantum-breach">🔗 View Repository</a>
 </details>
 
 
@@ -75,7 +75,7 @@ My long-term academic goal is to pursue a **fully funded Master's degree in AI**
   <br><br>
     <b>Tech Stack:</b><i> Python, Data Visualization, Search Algorithms.</i>
     <br>
-  <a href="https://github.com/Amkhodaei83/pathfinding-benchmarks">🔗 View Repository</a>
+  <a href="https://github.com/amir-hossein-khodaei/pathfinding-benchmarks">🔗 View Repository</a>
 </details>
 
 
@@ -86,7 +86,7 @@ My long-term academic goal is to pursue a **fully funded Master's degree in AI**
   <br><br>
     <b>Tech Stack:</b> <i>Java, JavaFX, Object-Oriented Design Principles.</i>
     <br>
-  <a href="https://github.com/Amkhodaei83/DFA-Minimizer">🔗 View Repository</a>
+  <a href="https://github.com/amir-hossein-khodaei/DFA-Minimizer">🔗 View Repository</a>
 </details>
 
 ---
